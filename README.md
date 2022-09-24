@@ -1,1 +1,1 @@
-<h1> &#x200D; Estudando front-end </h1>
+<h1> &#x1F9DF; Estudando front-end </h1>
