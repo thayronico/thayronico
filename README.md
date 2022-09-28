@@ -1,8 +1,8 @@
-## Olá, Me Chamo Patrick. &#x1F9DF; Estudando front-end
+## Olá, Me Chamo Patrick. &#x1F9DF; Estudando front-end.
 - &#x1F4DA; Estudante autodidata
 - &#x1F649; Músico,
  &#x1F648; Desenhista,
- &#x1F64A; Quase sai mal feito, mas é de coração
+ &#x1F64A; Quase sai mal feito, mas é de coração.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
